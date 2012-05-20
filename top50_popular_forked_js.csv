@@ -1,0 +1,51 @@
+repository_name,forks,repository_description,repository_url,repository_owner
+bootstrap,5704,"HTML, CSS, and JS toolkit from Twitter",https://github.com/twitter/bootstrap,twitter
+html5-boilerplate,1893,"A professional front-end template that helps you build fast, robust, adaptable, and future-proof websites.",https://github.com/h5bp/html5-boilerplate,h5bp
+node,1817,evented I/O for v8 javascript,https://github.com/joyent/node,joyent
+html5-boilerplate,1686,Professional front-end template. So much goodness baked in by default,https://github.com/h5bp/html5-boilerplate,h5bp
+jquery,1677,jQuery JavaScript Library,https://github.com/jquery/jquery,jquery
+jquery-ui,1362,The official jQuery user interface library.,https://github.com/jquery/jquery-ui,jquery
+impress.js,1308,It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.,https://github.com/bartaz/impress.js,bartaz
+jquery-mobile,1163,jQuery Mobile Framework,https://github.com/jquery/jquery-mobile,jquery
+phonegap-start,1090,A starting-point for PhoneGap apps,https://github.com/phonegap/phonegap-start,phonegap
+backbone,1090,"Give your JS App some Backbone with Models, Views, Collections, and Events",https://github.com/documentcloud/backbone,documentcloud
+three.js,764,JavaScript 3D library.,https://github.com/mrdoob/three.js,mrdoob
+less.js,734,"Leaner CSS, in your browser.",https://github.com/cloudhead/less.js,cloudhead
+progit,719,Pro Git Book Content,https://github.com/progit/progit,progit
+d3,670,A JavaScript visualization library for HTML and SVG.,https://github.com/mbostock/d3,mbostock
+three.js,655,JavaScript 3D library,https://github.com/mrdoob/three.js,mrdoob
+ace,650,Ajax.org Cloud9 Editor,https://github.com/ajaxorg/ace,ajaxorg
+express,632,"Sinatra inspired web development framework for node.js -- insanely fast, flexible, and simple",https://github.com/visionmedia/express,visionmedia
+chosen,615,"Chosen is a library for making long, unwieldy select boxes more friendly.",https://github.com/harvesthq/chosen,harvesthq
+cloud9,586,"Cloud9 IDE - Your code anywhere, anytime. Open Source Javascript IDE.",https://github.com/ajaxorg/cloud9,ajaxorg
+socket.io,544,"Realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support.",https://github.com/LearnBoost/socket.io,LearnBoost
+underscore,529,JavaScript's utility _ belt,https://github.com/documentcloud/underscore,documentcloud
+jQuery-File-Upload,528,"File Upload widget with multiple file selection, drag&drop support, progress bars and preview images for jQuery. Supports cross-domain, chunked and resumable file uploads and client-side image resizing. Works with any server-side platform (PHP, Python, Ruby on Rails, Java, Node.js, Go etc.) that supports standard HTML form file uploads.",https://github.com/blueimp/jQuery-File-Upload,blueimp
+html5demos,513,Collection of hacks and demos showing capability of HTML5 apps,https://github.com/remy/html5demos,remy
+khan-exercises,469,A framework for building exercises to work with Khan Academy.,https://github.com/Khan/khan-exercises,Khan
+Modernizr,463,"Feature detect HTML5 and CSS3 features, with handy css and javascript hooks so you can progressively enhance to your heart's content.",https://github.com/Modernizr/Modernizr,Modernizr
+steal,437,Gets JavaScript,https://github.com/jupiterjs/steal,jupiterjs
+jQTouch,436,"Create powerful mobile apps with just HTML, CSS, and Zepto.js (or jQuery).",https://github.com/senchalabs/jQTouch,senchalabs
+scriptaculous,431,script.aculo.us is an open-source JavaScript framework for visual effects and interface behaviours.,https://github.com/madrobby/scriptaculous,madrobby
+BrowserQuest,431,,https://github.com/mozilla/BrowserQuest,mozilla
+jquerymx,403,jQuery MVC Extensions. jQuery extensions that makes all the annoying stuff easier.,https://github.com/jupiterjs/jquerymx,jupiterjs
+phonegap,394,"access core functions on Android, iPhone and Blackberry using JavaScript",https://github.com/sintaxi/phonegap,sintaxi
+zepto,389,"Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API",https://github.com/madrobby/zepto,madrobby
+jquery-tokeninput,388,"Tokeninput is a jQuery plugin which allows your users to select multiple items from a predefined list, using autocompletion as they type to find each item. You may have seen a similar type of text entry when filling in the recipients field sending messages on facebook.",https://github.com/loopj/jquery-tokeninput,loopj
+jquerymx,375,jQuery MVC Extensions.  jQuery extensions that makes all the annoying stuff easier.,https://github.com/jupiterjs/jquerymx,jupiterjs
+zepto,373,"Zepto.js is a minimalist JavaScript framework for modern browsers, with a jQuery-compatible API",https://github.com/madrobby/zepto,madrobby
+funcunit,366,"A functional test suite based of qUnit, Selenium and jQuery",https://github.com/jupiterjs/funcunit,jupiterjs
+phonegap-plugins,360,Plugins for use with PhoneGap.,https://github.com/phonegap/phonegap-plugins,phonegap
+documentjs,357,A powerful documentation engine for JS,https://github.com/jupiterjs/documentjs,jupiterjs
+mustache.js,350,Minimal templating with {{mustaches}} in JavaScript,https://github.com/janl/mustache.js,janl
+yui3,349,YUI 3.x Source Tree,https://github.com/yui/yui3,yui
+jasmine,341,DOM-less simple JavaScript testing framework,https://github.com/pivotal/jasmine,pivotal
+raphael,341,JavaScript Vector Library,https://github.com/DmitryBaranovskiy/raphael,DmitryBaranovskiy
+ember.js,321,Ember.js - A JavaScript framework for creating ambitious web applications,https://github.com/emberjs/ember.js,emberjs
+help.github.com,314,GitHub help guides,https://github.com/github/help.github.com,github
+file-uploader,312,"Multiple file upload plugin with progress-bar, drag-and-drop.",https://github.com/valums/file-uploader,valums
+facebox,307,"Facebook-style lightbox, built in jQuery",https://github.com/defunkt/facebox,defunkt
+KitchenSink,302,Titanium Mobile Kitchen Sink Demo,https://github.com/appcelerator/KitchenSink,appcelerator
+Skeleton,302,"Skeleton: A Beautiful Boilerplate for Responsive, Mobile-Friendly Development",https://github.com/dhgamache/Skeleton,dhgamache
+connect,298,Connect is a middleware layer for Node.js,https://github.com/senchalabs/connect,senchalabs
+gollum,294,"A simple, Git-powered wiki with a sweet API and local frontend.",https://github.com/github/gollum,github
