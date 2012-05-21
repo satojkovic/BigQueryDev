@@ -1,0 +1,51 @@
+repository_name,forks,repository_description,repository_url,repository_owner
+homebrew,3967,The missing package manager for OS X.,https://github.com/mxcl/homebrew,mxcl
+rails,3204,Ruby on Rails,https://github.com/rails/rails,rails
+diaspora,1363,Distributed and contextual social networking,https://github.com/diaspora/diaspora,diaspora
+jekyll,950,"Jekyll is a blog-aware, static site generator in Ruby",https://github.com/mojombo/jekyll,mojombo
+hw3_rottenpotatoes,905,HW 3 skeleton for doing BDD with RottenPotatoes,https://github.com/saasbook/hw3_rottenpotatoes,saasbook
+spree,895,Spree is a complete open source e-commerce solution for Ruby on Rails.,https://github.com/spree/spree,spree
+active_merchant,854,"Active Merchant is a simple payment abstraction library used in and sponsored by Shopify. It is written by Tobias Luetke, Cody Fauser, and contributors. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.",https://github.com/Shopify/active_merchant,Shopify
+paperclip,853,Easy file attachment management for ActiveRecord,https://github.com/thoughtbot/paperclip,thoughtbot
+octopress,834,Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?,https://github.com/imathis/octopress,imathis
+cookbooks,788,"This repository has been split up into separate repositories by cookbook under the ""opscode-cookbooks"" organization.",https://github.com/opscode/cookbooks,opscode
+devise,786,Flexible authentication solution for Rails with Warden.,https://github.com/plataformatec/devise,plataformatec
+cookbooks,751,Opscode Chef Cookbook Development Repository,https://github.com/opscode/cookbooks,opscode
+progit,722,Pro Git Book Content,https://github.com/progit/progit,progit
+refinerycms,669,An extendable Ruby on Rails 'CMS framework' that supports Rails 3,https://github.com/resolve/refinerycms,resolve
+refinerycms,668,An extendable Ruby on Rails 'CMS framework' that supports Rails 3.2,https://github.com/resolve/refinerycms,resolve
+active_admin,663,The administration framework for Ruby on Rails applications.,https://github.com/gregbell/active_admin,gregbell
+redmine,634,Redmine is a flexible project management web application written using Ruby on Rails framework. http://github.com/edavis10/redmine is the official git mirror of the svn repository,https://github.com/edavis10/redmine,edavis10
+rails_admin,627,RailsAdmin is a Rails 3 engine that provides an easy-to-use interface for managing your data,https://github.com/sferik/rails_admin,sferik
+mongoid,621,Ruby ODM framework for MongoDB,https://github.com/mongoid/mongoid,mongoid
+delayed_job,611,Database backed asynchronous priority queue -- Extracted from Shopify,https://github.com/tobi/delayed_job,tobi
+ruby_koans,597,A set of Koans to teach the Ruby language,https://github.com/edgecase/ruby_koans,edgecase
+resque,561,"Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",https://github.com/defunkt/resque,defunkt
+hw4_rottenpotatoes,536,,https://github.com/saasbook/hw4_rottenpotatoes,saasbook
+github-services,524,Official GitHub Services Integration - You can set these up in your repo admin screen under Service Hooks,https://github.com/github/github-services,github
+fat_free_crm,522,Ruby on Rails CRM platform for Web 2.0 and beyond,https://github.com/fatfreecrm/fat_free_crm,fatfreecrm
+chef,513,"A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.",https://github.com/opscode/chef,opscode
+sinatra,508,(offically at github.com/sinatra/sinatra) Classy web-development dressed in a DSL,https://github.com/bmizerany/sinatra,bmizerany
+ruby,481,The Ruby Programming Language,https://github.com/ruby/ruby,ruby
+ey-cloud-recipes,480,"A starter repo for custom chef recipes on EY's cloud platform. These are for reference, and do not indicate a supported status.",https://github.com/engineyard/ey-cloud-recipes,engineyard
+sinatra,462,Classy web-development dressed in a DSL (official / canonical repo),https://github.com/sinatra/sinatra,sinatra
+ey-cloud-recipes,453,"A starter repo for custom chef recipes on EY's cloud platform.  These are for reference, and do not indicate a supported status.",https://github.com/engineyard/ey-cloud-recipes,engineyard
+omniauth,450,OmniAuth is a flexible authentication system utilizing Rack middleware.,https://github.com/intridea/omniauth,intridea
+will_paginate,446,"Pagination library for Rails 3, Sinatra, Merb, DataMapper, and more",https://github.com/mislav/will_paginate,mislav
+authlogic,446,A simple model based ruby authentication solution.,https://github.com/binarylogic/authlogic,binarylogic
+bundler,439,Manage your application's gem dependencies with less pain,https://github.com/carlhuda/bundler,carlhuda
+blueprint-css,439,A CSS framework that aims to cut down on your CSS development time,https://github.com/joshuaclayton/blueprint-css,joshuaclayton
+fog,434,The Ruby cloud services library.,https://github.com/fog/fog,fog
+cucumber,424,BDD that talks to domain experts first and code second,https://github.com/cucumber/cucumber,cucumber
+compass,416,Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.,https://github.com/chriseppstein/compass,chriseppstein
+formtastic,410,A Rails form builder plugin with semantically rich and accessible markup.,https://github.com/justinfrench/formtastic,justinfrench
+insoshi,408,An open source social networking platform in Ruby on Rails,https://github.com/insoshi/insoshi,insoshi
+gitlabhq,389,Project management and code hosting application. Follow us on twitter @gitlabhq,https://github.com/gitlabhq/gitlabhq,gitlabhq
+rack,389,a modular Ruby webserver interface | personal fork | PLEASE BRANCH/SEND PULL REQUESTS/FILE BUGS AT rack/rack,https://github.com/chneukirchen/rack,chneukirchen
+capybara,387,Acceptance test framework for web applications,https://github.com/jnicklas/capybara,jnicklas
+browsercms,381,BrowserCMS: Humane Content Management for Rails,https://github.com/browsermedia/browsercms,browsermedia
+delayed_job,375,Database based asynchronously priority queue system -- Extracted from Shopify,https://github.com/collectiveidea/delayed_job,collectiveidea
+carrierwave,366,"Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",https://github.com/jnicklas/carrierwave,jnicklas
+delayed_job,362,"Database based asynchronously priority queue system -- Extracted from Shopify ",https://github.com/collectiveidea/delayed_job,collectiveidea
+rubinius,358,"Rubinius, the Ruby Environment",https://github.com/rubinius/rubinius,rubinius
+acts-as-taggable-on,336,A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.,https://github.com/mbleigh/acts-as-taggable-on,mbleigh

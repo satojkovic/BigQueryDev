@@ -1,0 +1,51 @@
+repository_name,forks,repository_description,repository_url,repository_owner
+django,783,Official clone of the Subversion repository.,https://github.com/django/django,django
+django-old,753,"Old, outdated clone of the Subversion repository. No longer updated!",https://github.com/django/django-old,django
+tornado,643,"Tornado is an open source version of the scalable, non-blocking web server and tools that power FriendFeed.",https://github.com/facebook/tornado,facebook
+Sick-Beard,535,PVR & episode guide that downloads and manages all your TV shows,https://github.com/midgetspy/Sick-Beard,midgetspy
+django-cms,500,An Advanced Django CMS.,https://github.com/divio/django-cms,divio
+Sick-Beard,461,"PVR & episode guide that downloads and manages all your TV shows ",https://github.com/midgetspy/Sick-Beard,midgetspy
+reddit,443,the code that powers reddit.com,https://github.com/reddit/reddit,reddit
+play,403,Play framework,https://github.com/playframework/play,playframework
+boto,396,Python interface to Amazon Web Services,https://github.com/boto/boto,boto
+flask,384,"A microframework based on Werkzeug, Jinja2 and good intentions",https://github.com/mitsuhiko/flask,mitsuhiko
+android,367,Misc Android stuff,https://github.com/CyanogenMod/android,CyanogenMod
+requests,326,Python HTTP Requests for Humans™.,https://github.com/kennethreitz/requests,kennethreitz
+pinax,303,a Django-based platform for rapidly developing websites,https://github.com/pinax/pinax,pinax
+fabric,294,"Simple, Pythonic remote execution and deployment.",https://github.com/fabric/fabric,fabric
+sympy,280,A computer algebra system written in pure Python,https://github.com/sympy/sympy,sympy
+django-debug-toolbar,279,A configurable set of panels that display various debug information about the current request/response.,https://github.com/django-debug-toolbar/django-debug-toolbar,django-debug-toolbar
+python-sdk,275,"This SDK is deprecated. It does not support the new cookie format that we rolled out as part of the OAuth Migration. In short, it doesn't work. We currently have no plans to update it. Feel free to clone this repository and modify.",https://github.com/facebook/python-sdk,facebook
+tweepy,273,A Python library for accessing the Twitter API,https://github.com/tweepy/tweepy,tweepy
+django-social-auth,264,Django social authentication made simple,https://github.com/omab/django-social-auth,omab
+django-tastypie,262,Creating delicious APIs for Django apps since 2010. v1.0.0-beta,https://github.com/toastdriven/django-tastypie,toastdriven
+python-oauth2,261,"A fully tested, abstract interface to creating OAuth clients and servers.",https://github.com/simplegeo/python-oauth2,simplegeo
+ipython,255,"Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",https://github.com/ipython/ipython,ipython
+django-haystack,250,Modular search for Django. Currently v2.0.0-beta.,https://github.com/toastdriven/django-haystack,toastdriven
+nova,249,OpenStack Compute (Nova),https://github.com/openstack/nova,openstack
+django,247,The Web framework for perfectionists with deadlines. Now on GitHub.,https://github.com/django/django,django
+celery,241,Distributed Task Queue (development branch),https://github.com/ask/celery,ask
+buildbot,236,Python-based continuous integration testing framework; send pull requests for your patches!,https://github.com/buildbot/buildbot,buildbot
+dropship,230,Instantly transfer files between Dropbox accounts using only their hashes.,https://github.com/driverdan/dropship,driverdan
+webpy,205,web.py is a web framework for python that is as simple as it is powerful.,https://github.com/webpy/webpy,webpy
+mongoengine,201,A Python Object-Document-Mapper for working with MongoDB,https://github.com/hmarr/mongoengine,hmarr
+pyramid,198,Pyramid web framework,https://github.com/Pylons/pyramid,Pylons
+python-guide,197,"Python best practices guidebook, written for Humans.",https://github.com/kennethreitz/python-guide,kennethreitz
+amsn2,196,The new version of aMSN client,https://github.com/drf/amsn2,drf
+emesene,193,"emesene is an instant messenger capable of connecting to various networks and utilizing different graphical toolkits. Currently msn and jabber are supported through papyon and xmppy, which allows emesene to connect to various IM services such as Windows Live Messenger, GTalk, Facebook Chat, etc.",https://github.com/emesene/emesene,emesene
+webpy,190,"web.py is a web framework for python that is as simple as it is powerful. ",https://github.com/webpy/webpy,webpy
+pycon2011,189,Fork me to win a ticket to PyCon 2011!,https://github.com/github/pycon2011,github
+django-extensions,188,This is a repository for collecting global custom management extensions for the Django Framework.,https://github.com/django-extensions/django-extensions,django-extensions
+python-guide,184,"Python best practices guidebook, written in Sphinx.",https://github.com/kennethreitz/python-guide,kennethreitz
+sentry,181,Sentry is a realtime event logging and aggregation platform,https://github.com/dcramer/sentry,dcramer
+redis-py,180,Redis Python Client,https://github.com/andymccurdy/redis-py,andymccurdy
+main,177,Implementations of Python and Ruby programming languages for .NET Framework that are built on top of the Dynamic Language Runtime.,https://github.com/IronLanguages/main,IronLanguages
+CouchPotato,170,Automatic Movie Downloading via NZBs & Torrents,https://github.com/RuudBurger/CouchPotato,RuudBurger
+docs,169,new version of CakePHP docs,https://github.com/cakephp/docs,cakephp
+django-paypal,162,A pluggable Django application for integrating PayPal Payments Standard or Payments Pro,https://github.com/johnboxall/django-paypal,johnboxall
+django-notification,159,user notification management for the Django web framework,https://github.com/jtauber/django-notification,jtauber
+django_compressor,156,Compresses linked and inline javascript or CSS into a single cached file.,https://github.com/jezdez/django_compressor,jezdez
+pandas,152,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",https://github.com/pydata/pandas,pydata
+mongo-python-driver,151,PyMongo - the Python driver for MongoDB,https://github.com/mongodb/mongo-python-driver,mongodb
+pip,149,pip installs packages. Python packages. An easy_install replacement,https://github.com/pypa/pip,pypa
+mezzanine,149,A content management platform built using the Django framework.,https://github.com/stephenmcd/mezzanine,stephenmcd
